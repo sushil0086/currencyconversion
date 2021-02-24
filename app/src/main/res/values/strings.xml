@@ -1,8 +1,12 @@
 <resources>
     <string name="app_name">Currency Converter</string>
+    <string name="type_value">Type a value</string>
+    <string name="before_txt_change">Before Text Changed</string>
+    <string name="On_text_change">OnTextChanged</string>
+    <string name="pls_pick_currency_convertor">Please pick a currency to convert</string>
 
 
-    <string-array name="currencies">
+    <string-array name="currencies1">
         <item>EUR</item>
 
         <item>GBP</item>
